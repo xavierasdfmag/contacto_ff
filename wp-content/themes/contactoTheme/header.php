@@ -64,6 +64,6 @@
 			<div class="medium-6 columns"></div>
 		</div>
 	</header>	
-	<p>asd</p>
+	
 <section class="container" role="document">
 	<?php do_action('foundationPress_after_header'); ?>
