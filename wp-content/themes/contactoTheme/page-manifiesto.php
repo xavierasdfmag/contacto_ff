@@ -5,8 +5,6 @@
 		<div class="text-center logo">
 			<!-- <img src="<?php bloginfo('template_directory'); ?>/img/futbolfemenino_logo.png"> -->
 		</div>
-
-		<?php echo do_shortcode("[mc4wp_form]"); ?>
 		
     <div class="content">
 	    <h1>manifiesto</h1>
@@ -33,20 +31,8 @@
 	    <p>Somos FUTBOLFEMENINO.PE&nbsp;</p>
 	    <p>y nosotras la movemos mejor.</p>
     </div>
-
 		
 				<?php //echo do_shortcode("[juiz_sps buttons='facebook, twitter, pinterest']"); ?>
-<!-- 		<div class="row">
-			<div class="small-12 small-centered medium-4 columns">
-				<?php echo do_shortcode("[mc4wp_form]"); ?>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="small-12 small-centered medium-4 columns">
-				<?php echo do_shortcode('[contact-form-7 id="8" title="subscription"]'); ?>
-			</div>
-		</div>		 -->
 
 	</div>
 </div>
