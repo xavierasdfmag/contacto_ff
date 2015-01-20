@@ -6,7 +6,7 @@
 			<!-- <img src="<?php bloginfo('template_directory'); ?>/img/futbolfemenino_logo.png"> -->
 		</div>
 
-		<?php //echo do_shortcode("[mc4wp_form]"); ?>
+		<?php echo do_shortcode("[mc4wp_form]"); ?>
 		
     <div class="content">
 	    <h1>manifiesto</h1>
@@ -34,7 +34,7 @@
 	    <p>y nosotras la movemos mejor.</p>
     </div>
 
-		<?php //echo do_shortcode("[mc4wp_form]"); ?>
+		<?php echo do_shortcode("[mc4wp_form]"); ?>
 
 		<div class="row">
 			<div class="small-12 small-centered medium-4 columns">
