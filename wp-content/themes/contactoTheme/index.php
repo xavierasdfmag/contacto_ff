@@ -16,9 +16,9 @@
   </div>
 
 <div id="modalDifundir" class="reveal-modal" data-reveal>
-  <h2>Awesome. I have it.</h2>
-  <p class="lead">Your couch.  It is mine.</p>
-  <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p>
+  <h2>Te registraste correctamente.</h2>
+  <p class="lead">Te registraste correctamente.</p>
+  <p>Te registraste correctamente.</p>
   <a class="close-reveal-modal">&#215;</a>
 </div>
 

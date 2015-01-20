@@ -77,8 +77,8 @@
     width: 100%;    
 }
 
-.manifiesto div.wpcf7-mail-sent-ng{
-    border-color: green;
+div.wpcf7-mail-sent-ok {
+    display: none !important;
 }
 
 @media only screen { 
