@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<div class="row">
+<div class="row manifiesto">
 	<div class="small-12 medium-10 medium-centered large-8 columns" role="main">
 
 		<div class="text-center logo">

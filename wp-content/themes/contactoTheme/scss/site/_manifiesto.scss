@@ -1,0 +1,85 @@
+.manifiesto h1 {
+    font-size: 70px;
+    line-height: 70px;
+    margin: 0px 0px 15px 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Sansita One";
+    text-transform: capitalize;
+    text-align: center;
+    letter-spacing: 2px;
+    text-shadow: 0px 0px 1px rgba(28,28,28,1);
+}
+
+.manifiesto p {
+    margin: 0px;
+    text-transform: inherit;
+    font-size: 27px;
+    font-family: "Amatic SC";
+    font-weight: 700;
+    font-style: normal;
+    line-height: 33px;
+    text-align: center;
+}
+
+.manifiesto strong {
+    color: rgba(204,0,153,1);
+}
+
+.manifiesto em {
+    font-size: 57px;
+    line-height: 57px;
+    font-style: normal !important;
+}
+
+.manifiesto .logo{
+    margin: 30px auto;
+}
+
+.manifiesto .content{
+    // margin: 20px auto;
+}
+
+.manifiesto .txt-email{
+    padding: 0 !important;
+    input{
+        border-color: #E100A0 !important;
+    }
+}
+
+.manifiesto .btn-sing-up{
+    padding: 0 !important;
+    input{
+        width: 100%;
+        height: 37px;
+        border: none;
+        background-color: #E100A0;
+        color: white;        
+    }
+}
+
+.manifiesto ul.juiz_sps_links_list li.juiz_sps_item a{
+    background-color: #E100A0 !important;
+    border: 1px solid !important; 
+}
+
+.manifiesto ul.juiz_sps_links_list li.juiz_sps_item a:hover{
+    background-color: #E100A0 !important;
+    border: 1px solid !important; 
+}
+
+.manifiesto .juiz_sps_network_name{
+    display: none !important;
+}
+
+.manifiesto iframe{
+    height: 20px;
+    width: 100%;    
+}
+
+@media only screen { 
+    .manifiesto h1{
+        font-size: 50px;
+    }
+}
+
