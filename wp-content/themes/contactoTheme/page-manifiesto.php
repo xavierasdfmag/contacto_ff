@@ -3,7 +3,7 @@
 	<div class="small-12 medium-10 medium-centered large-8 columns" role="main">
 
 		<div class="text-center logo">
-			<img src="<?php bloginfo('template_directory'); ?>/img/futbolfemenino_logo.png">
+			<!-- <img src="<?php bloginfo('template_directory'); ?>/img/futbolfemenino_logo.png"> -->
 		</div>
 
 		<?php //echo do_shortcode("[mc4wp_form]"); ?>

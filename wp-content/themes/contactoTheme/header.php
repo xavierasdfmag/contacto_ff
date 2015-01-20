@@ -30,6 +30,7 @@
 		<link rel="apple-touch-icon-precomposed" href="<?php echo get_stylesheet_directory_uri() ; ?>/assets/img/icons/apple-touch-icon-precomposed.png">
 
 		<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:300' rel='stylesheet' type='text/css'>		
+		<link href='http://fonts.googleapis.com/css?family=Sansita+One|Amatic+SC:400,700' rel='stylesheet' type='text/css'>
 		
 		<?php wp_head(); ?>
 	</head>
@@ -64,6 +65,6 @@
 			<div class="medium-6 columns"></div>
 		</div>
 	</header>	
-	
+
 <section class="container" role="document">
 	<?php do_action('foundationPress_after_header'); ?>
