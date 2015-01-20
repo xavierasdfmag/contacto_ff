@@ -36,7 +36,7 @@
 
 		
 				<?php //echo do_shortcode("[juiz_sps buttons='facebook, twitter, pinterest']"); ?>
-		<div class="row">
+<!-- 		<div class="row">
 			<div class="small-12 small-centered medium-4 columns">
 				<?php echo do_shortcode("[mc4wp_form]"); ?>
 			</div>
@@ -46,7 +46,7 @@
 			<div class="small-12 small-centered medium-4 columns">
 				<?php echo do_shortcode('[contact-form-7 id="8" title="subscription"]'); ?>
 			</div>
-		</div>		
+		</div>		 -->
 
 	</div>
 </div>
