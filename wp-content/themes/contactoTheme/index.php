@@ -30,7 +30,7 @@
           <div id="share_button">Compartelo en tu facebook</div>
         </div>
         <div class="small-6 columns">
-          <a class="twitter-share-button" href="https://twitter.com/share" data-related="twitterdev" data-size="large" data-count="none" data-text="esta es la frase que se quiere compartir?">
+          <a class="twitter-share-button" href="https://twitter.com/share" data-text="esta es la frase que se quiere compartir?">
           Compártelo por twitter
           </a>
           <script>
