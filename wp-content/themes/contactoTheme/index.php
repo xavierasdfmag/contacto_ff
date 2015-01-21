@@ -2,7 +2,7 @@
 
 <script>
   $(document).ready(function(){
-    $('#share_button').on('click', function(e){
+    $('#facebook-share-button').on('click', function(e){
       e.preventDefault();
       FB.ui(
        {
