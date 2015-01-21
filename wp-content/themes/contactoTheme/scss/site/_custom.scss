@@ -72,15 +72,16 @@ iframe{
 a.twitter-share-button,
 a.twitter-mention-button,
 a.twitter-hashtag-button {
+	width: 100% !important;
   display: inline-block;
   padding: 1px 3px 0 19px;
-  border: #333 solid 1px;
+  border: #333 solid 1px !important;
   border-radius: 3px;
   background: #333 url(//platform.twitter.com/images/bird.png) 2px 3px no-repeat;
   background: url(//platform.twitter.com/images/bird.png) 2px 3px no-repeat,
-              -webkit-linear-gradient(#fff, #dedede);
+              -webkit-linear-gradient(#fff, #333) !important;
   background: url(//platform.twitter.com/images/bird.png) 2px 3px no-repeat,
-              linear-gradient(#fff, #dedede);
+              linear-gradient(#fff, #333) !important;
   background-size: 16px 13px, auto auto;
  
   /* Text */
@@ -96,7 +97,7 @@ a.twitter-share-button:focus,
 a.twitter-mention-button:focus,
 a.twitter-hashtag-button:focus {
   outline: none;
-  border-color: #0089cb;
+  border-color: #333 !important;
 }
 
 
