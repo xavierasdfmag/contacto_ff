@@ -55,18 +55,18 @@
 <div id="modalDifundir" class="reveal-modal" data-reveal>
   <h4>Ayúdanos a difundir</h4>
   <p>Al compartir nos ayudas a hacer más grande el fútbol femenino. Gracias.</p>
+  <img src="<?php echo get_stylesheet_directory_uri() ; ?>/img/logo_escudo.png">
       <div class="row share">
         <div class="small-6 columns no-padding-right text-center">
-          <div class="facebook-share-button"><span class="icon-facebook"></span></div>
+          <div class="facebook-share-button"><span class="icon-facebook modal"></span></div>
         </div>
         <div class="small-6 columns no-padding-left text-center">
         <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text">
           <div class="twitter-share-button">
-            <span class="icon-twitter"></span>
+            <span class="icon-twitter modal"></span>
           </div>       
         </a> 
         </div>
-        <span>Al compartir nos ayudas a difundir el fútbol femenino. Gracias</span>
       </div>  
   <a class="close-reveal-modal">&#215;</a>
 </div>
