@@ -33,12 +33,7 @@
           <a class="twitter-share-button" href="https://twitter.com/share" data-count="none" data-text="esta es la frase que se quiere compartir?">
           Compártelo por twitter
           </a>
-          <a href="https://twitter.com/share?
-            url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&
-            via=twitterdev&
-            related=twitterapi%2Ctwitter&
-            hashtags=example%2Cdemo&
-            text=custom%20share%20text">
+          <a href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text">
           comparte poes!
           </a>        
         </div>
