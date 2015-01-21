@@ -1,17 +1,6 @@
 <?php get_header(); ?>
 
-<script type="text/javascript">
-  $(document).ready(function(){
-    $('#share_button').live('click', function(e){
-      e.preventDefault();
-      FB.ui(
-       {
-        method: 'share',
-        href: 'https://developers.facebook.com/docs/'
-      }, function(response){});
-    });
-  });
-</script>
+
 
   <div class="row">
     <div class="small-12 columns frase">
@@ -23,7 +12,7 @@
   <div class="row">
     <div class="small-12 medium-8 columns">
       <iframe height="400" src="//www.youtube.com/embed/HJqEaxwlvLM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-      <img src = "share_button.png" id = "share_button">
+      <div id="share_button">comparte!!!</div>
     </div>
     <div class="small-12 medium-4 columns formulario">
       <?php echo do_shortcode('[contact-form-7 id="8" title="subscription"]'); ?>

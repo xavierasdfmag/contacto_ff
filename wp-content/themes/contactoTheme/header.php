@@ -54,6 +54,19 @@
        }(document, 'script', 'facebook-jssdk'));
     </script>
 
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('#share_button').live('click', function(e){
+      e.preventDefault();
+      FB.ui(
+       {
+        method: 'share',
+        href: 'http://futbolfemenino.pe/contacto/'
+      }, function(response){});
+    });
+  });
+</script>    
+
 	<?php do_action('foundationPress_after_body'); ?>
 	
 	<div class="off-canvas-wrap" data-offcanvas>
