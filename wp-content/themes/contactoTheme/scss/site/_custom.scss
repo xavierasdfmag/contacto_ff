@@ -2,9 +2,11 @@
 .icon-facebook:before {
 	font-size: 19px;
 	margin-right: 2px;
+	color: #fff !important;
 }
 
 .icon-twitter:before {
+	color: #fff !important;
 }
 
 
@@ -79,7 +81,7 @@ iframe{
 
 .share{
 	margin-top: -6px !important;
-	#twitter-share-button {
+	.twitter-share-button {
 		padding: 7px 10px;
 		width: 100%;
 		background-color: #0099ff;
@@ -88,7 +90,7 @@ iframe{
 		font-size: 16px;
 		a{color:white;}
 	}
-	#facebook-share-button {
+	.facebook-share-button {
 		&:hover{cursor:pointer;}
 		padding: 7px 10px;	
 		background-color: #3b5998;
@@ -105,7 +107,16 @@ iframe{
 
 .footer-contacto{
 	font-size: 12px;
-	padding: 15px 0px;
+	padding-top: 20px;
+	padding-bottom: 5px;
+}
+
+#modalDifundir{
+	border: 18px solid #330099;
+	border-top: 48px solid #330099;	
+	h4{
+		margin-top: -60px;
+	}
 }
 
 @media only screen and (max-width: 64em) { 
