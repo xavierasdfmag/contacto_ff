@@ -26,16 +26,18 @@
       <iframe height="400" src="//www.youtube.com/embed/HJqEaxwlvLM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
       <div class="row">
-        <div class="small-6 columns no-padding-right">
+        <div class="small-6 columns no-padding-right text-center">
           <div id="facebook-share-button"><span class="icon-facebook"></span>Compártelo en tu facebook</div>
         </div>
-        <div class="small-6 columns no-padding-left">
+        <div class="small-6 columns no-padding-left text-center">
+        <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text">
           <div id="twitter-share-button">
             <span class="icon-twitter"></span>
-            <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text">
+            
             Compártelo por twitter
-            </a> 
+            
           </div>       
+        </a> 
         </div>
       </div>
 
