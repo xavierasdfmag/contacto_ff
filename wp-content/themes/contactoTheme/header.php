@@ -95,7 +95,7 @@
 			<div class="medium-6 columns">
 				<img src="<?php echo get_stylesheet_directory_uri() ; ?>/img/logo.png">
 			</div>
-			<div class="medium-6 columns">
+			<div class="medium-6 columns facebook-compartir-header">
 				<div
 				  class="fb-like"
 				  action="recommend"
