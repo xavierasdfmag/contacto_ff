@@ -21,6 +21,11 @@
 			echo wp_title( ' | ', 'false', 'right' ); bloginfo( 'name' );
 		} ?></title>
 		
+		<meta property="og:url" content="http://futbolfemenino.pe/contacto/" /> 
+		<meta property="og:title" content="Chocolate Pecan Pie" />
+		<meta property="og:description" content="This pie is delicious!" /> 
+		<meta property="og:image" content="https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-prn1/851565_496755187057665_544240989_n.jpg" /> 
+		
 		<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri() ; ?>/css/foundation.css" />
 
 		<link rel="icon" href="<?php echo get_stylesheet_directory_uri() ; ?>/assets/img/icons/favicon.ico" type="image/x-icon">

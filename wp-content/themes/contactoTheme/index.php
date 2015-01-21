@@ -7,12 +7,7 @@
       FB.ui(
        {
         method: 'share',
-        name: 'HyperArts Blog',
-        link: 'http://hyperarts.com/blog',
-        picture: 'http://www.hyperarts.com/_img/TabPress-LOGO-Home.png',
-        caption: 'I love HyperArts tutorials',
-        description: 'The HyperArts Blog provides tutorials for all things Facebook',
-        message: ''
+        href: 'http://futbolfemenino.pe/contacto/'
       }, function(response){});
     });
   });
