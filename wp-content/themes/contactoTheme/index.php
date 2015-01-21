@@ -68,7 +68,12 @@
         <div class="facebook-share-button"><span class="icon-facebook modal"></span></div>
       </div>
       <div class="small-6 columns no-padding-left text-center">
-      <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text">
+      <!-- <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text"> -->
+
+<a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Ffutbolfemenino.pe%2Fcontacto&text=Pre%20suscribete%20a%20la%20primera%20revista%20de%20fútbol%20femenino%20de%20Peru%20y%20recibe%20la%20primera%20edicion%20gratis">
+</a>
+
+
         <div class="twitter-share-button">
           <span class="icon-twitter modal"></span>
         </div>       
