@@ -29,7 +29,8 @@
       <a class="twitter-share-button" href="https://twitter.com/share"
         data-related="twitterdev"
         data-size="large"
-        data-count="none">
+        data-count="none"
+        data-text="esta es la frase que se quiere compartir?">
       Tweet
       </a>
       <script>
