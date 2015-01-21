@@ -25,7 +25,13 @@
 		<meta property="og:title" content="Chocolate Pecan Pie" />
 		<meta property="og:description" content="This pie is delicious!" /> 
 		<meta property="og:image" content="https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-prn1/851565_496755187057665_544240989_n.jpg" /> 
-		
+
+		<meta name="twitter:card" content="photo" />
+		<meta name="twitter:site" content="@flickr" />
+		<meta name="twitter:title" content="Mountain sunset" />
+		<meta name="twitter:image" content="http://farm8.staticflickr.com/7334/11858349453_e3f18e5881_z.jpg" />
+		<meta name="twitter:url" content="https://www.flickr.com/photos/reza-sina/11858349453/" />		
+
 		<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri() ; ?>/css/foundation.css" />
 
 		<link rel="icon" href="<?php echo get_stylesheet_directory_uri() ; ?>/assets/img/icons/favicon.ico" type="image/x-icon">
@@ -47,7 +53,7 @@
         FB.init({
           appId      : '744314922272246',
           xfbml      : true,
-          version    : 'v2.1'
+          version    : 'v2.1',
         });
       };
 
