@@ -47,10 +47,9 @@
     </div>
   </div>
   <div class="row">
-    <div class="small-12 columns">
+    <div class="small-12 columns footer-contacto">
       <strong>UNA IDEA DE ASDFNETWORK</strong>
     </div>
-    
   </div>
 
 <div id="modalDifundir" class="reveal-modal" data-reveal>
