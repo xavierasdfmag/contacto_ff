@@ -6,7 +6,7 @@
       e.preventDefault();
       FB.ui(
        {
-        method: 'feed',
+        method: 'share',
         name: 'HyperArts Blog',
         link: 'http://hyperarts.com/blog',
         picture: 'http://www.hyperarts.com/_img/TabPress-LOGO-Home.png',
