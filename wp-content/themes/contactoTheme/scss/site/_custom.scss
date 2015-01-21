@@ -46,6 +46,9 @@ iframe{
 		line-height: 15px;
 		color: #7e7e7e;
 	}
+	textarea{
+		margin-bottom: 0px;
+	}
 
 }
 
@@ -69,19 +72,19 @@ iframe{
 
 // share twitter
 
-a.twitter-share-button {
+#twitter-share-button {
 	width: 100%;
 	background-color: #0099ff;
 	border: none;
 	color: white;
-	font-size: 25px;
+	font-size: 18px;
 }
 
-.facebook-share-button {
+#facebook-share-button {
 	background-color: #3b5998;
 	border: none;
 	color: white;
-	font-size: 25px;	
+	font-size: 18px;	
 }
 
 
