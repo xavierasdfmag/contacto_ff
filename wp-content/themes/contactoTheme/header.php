@@ -35,6 +35,25 @@
 		<?php wp_head(); ?>
 	</head>
 	<body <?php body_class(); ?>>
+
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '744314922272246',
+          xfbml      : true,
+          version    : 'v2.1'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/es_LA/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+
 	<?php do_action('foundationPress_after_body'); ?>
 	
 	<div class="off-canvas-wrap" data-offcanvas>
@@ -62,7 +81,14 @@
 			<div class="medium-6 columns">
 				<img src="<?php echo get_stylesheet_directory_uri() ; ?>/img/logo.png">
 			</div>
-			<div class="medium-6 columns"></div>
+			<div class="medium-6 columns">
+				<div
+				  class="fb-like"
+				  data-send="true"
+				  data-width="450"
+				  data-show-faces="true">
+				</div>				
+			</div>
 		</div>
 	</header>	
 
