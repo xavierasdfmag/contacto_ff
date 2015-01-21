@@ -24,15 +24,18 @@
   <div class="row">
     <div class="small-12 medium-8 columns">
       <iframe height="400" src="//www.youtube.com/embed/HJqEaxwlvLM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-      <div id="share_button">comparte!!!</div>
 
-      <a class="twitter-share-button" href="https://twitter.com/share"
-        data-related="twitterdev"
-        data-size="large"
-        data-count="none"
-        data-text="esta es la frase que se quiere compartir?">
-      Tweet
-      </a>
+      <div class="row">
+        <div class="small-12 columns">
+          <div id="share_button">Compartelo en tu facebook</div>
+        </div>
+        <div class="small-12 columns">
+          <a class="twitter-share-button" href="https://twitter.com/share" data-related="twitterdev" data-size="large" data-count="none" data-text="esta es la frase que se quiere compartir?">
+          Compártelo por twitter
+          </a>
+        </div>
+      </div>
+
       <script>
       window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
       </script>
