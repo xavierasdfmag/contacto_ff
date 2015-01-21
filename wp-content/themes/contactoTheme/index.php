@@ -54,8 +54,15 @@
 
 <div id="modalDifundir" class="reveal-modal" data-reveal>
   <h4>Ayúdanos a difundir</h4>
-  <p>Al compartir nos ayudas a hacer más grande el fútbol femenino. Gracias.</p>
-  <img src="<?php echo get_stylesheet_directory_uri() ; ?>/img/logo_escudo.png">
+  <div class="row">
+    <div class="small-9 columns">
+      <p>Al compartir nos ayudas a hacer más grande el fútbol femenino. Gracias.</p>
+    </div>
+    <div class="small-3 columns">
+      <img src="<?php echo get_stylesheet_directory_uri() ; ?>/img/logo_escudo.png">
+    </div>
+  </div>
+  
       <div class="row share">
         <div class="small-6 columns no-padding-right text-center">
           <div class="facebook-share-button"><span class="icon-facebook modal"></span></div>
