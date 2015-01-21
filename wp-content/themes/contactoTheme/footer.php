@@ -11,7 +11,7 @@
 	</div>
 </div>
 <?php wp_footer(); ?>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
+
 <?php do_action('foundationPress_before_closing_body'); ?>
 </body>
 </html>
