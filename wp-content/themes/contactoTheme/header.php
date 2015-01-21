@@ -27,10 +27,10 @@
 		<meta property="og:image" content="https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-prn1/851565_496755187057665_544240989_n.jpg" /> 
 
 		<meta name="twitter:card" content="photo" />
-		<meta name="twitter:site" content="@flickr" />
+		<meta name="twitter:site" content="http://futbolfemenino.pe/" />
 		<meta name="twitter:title" content="Mountain sunset" />
-		<meta name="twitter:image" content="http://farm8.staticflickr.com/7334/11858349453_e3f18e5881_z.jpg" />
-		<meta name="twitter:url" content="https://www.flickr.com/photos/reza-sina/11858349453/" />		
+		<meta name="twitter:image" content="https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-prn1/851565_496755187057665_544240989_n.jpg" />
+		<meta name="twitter:url" content="http://futbolfemenino.pe/contacto/" />		
 
 		<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri() ; ?>/css/foundation.css" />
 
