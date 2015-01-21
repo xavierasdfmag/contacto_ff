@@ -27,10 +27,10 @@
 
       <div class="row">
         <div class="small-6 columns">
-          <div id="share_button">Compartelo en tu facebook</div>
+          <div id="facebook-share-button">Compartelo en tu facebook</div>
         </div>
         <div class="small-6 columns">
-          <a class="twitter-share-button" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text">
+          <a class="twitter-share-button" target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text">
           comparte poes!
           </a>        
         </div>

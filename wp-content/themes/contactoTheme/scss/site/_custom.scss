@@ -70,7 +70,18 @@ iframe{
 // share twitter
 
 a.twitter-share-button {
+	width: 100%;
+	background-color: #0099ff;
+	border: none;
+	color: white;
+	font-size: 25px;
+}
 
+.facebook-share-button {
+	background-color: #3b5998;
+	border: none;
+	color: white;
+	font-size: 25px;	
 }
 
 
