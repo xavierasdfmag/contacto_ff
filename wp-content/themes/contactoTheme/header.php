@@ -98,9 +98,11 @@
 			<div class="medium-6 columns">
 				<div
 				  class="fb-like"
+				  action="recommend"
 				  data-send="true"
 				  data-width="450"
-				  data-show-faces="true">
+				  data-show-faces="false"
+				  data-layout="button_count">
 				</div>				
 			</div>
 		</div>
