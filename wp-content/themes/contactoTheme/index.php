@@ -4,11 +4,11 @@
   $(document).ready(function(){
     $('#share_button').on('click', function(e){
       e.preventDefault();
-      FB.ui(
+      window.open( FB.ui(
        {
         method: 'share',
         href: 'http://futbolfemenino.pe/contacto/'
-      }, function(response){});
+      }, function(response){}); );
     });
   });
 </script> 
