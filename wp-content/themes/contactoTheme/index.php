@@ -33,9 +33,14 @@
           <a class="twitter-share-button" href="https://twitter.com/share" data-count="none" data-text="esta es la frase que se quiere compartir?">
           Compártelo por twitter
           </a>
-          <script>
-          window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
-          </script>          
+          <a href="https://twitter.com/share?
+            url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&
+            via=twitterdev&
+            related=twitterapi%2Ctwitter&
+            hashtags=example%2Cdemo&
+            text=custom%20share%20text">
+          comparte poes!
+          </a>        
         </div>
       </div>
 
