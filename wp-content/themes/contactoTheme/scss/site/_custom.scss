@@ -53,6 +53,35 @@ iframe{
 }
 
 
+.no-padding-right{padding-right:0px !important}
+.no-padding-left{padding-left:0px !important}
+
+
+
+
+
+// share twitter
+
+#twitter-share-button {
+	padding: 5px 10px;
+	width: 100%;
+	background-color: #0099ff;
+	border: none;
+	color: white;
+	font-size: 16px;
+	a{color:white;}
+}
+
+#facebook-share-button {
+	&:hover{cursor:pointer;}
+	padding: 5px 10px;	
+	background-color: #3b5998;
+	border: none;
+	color: white;
+	font-size: 16px;	
+}
+
+
 @media only screen and (max-width: 64em) { 
 	.frase{
 		padding-right: 15px;
@@ -70,22 +99,8 @@ iframe{
 	}	
 } 
 
-// share twitter
 
-#twitter-share-button {
-	width: 100%;
-	background-color: #0099ff;
-	border: none;
-	color: white;
-	font-size: 18px;
-}
 
-#facebook-share-button {
-	background-color: #3b5998;
-	border: none;
-	color: white;
-	font-size: 18px;	
-}
 
 
 
