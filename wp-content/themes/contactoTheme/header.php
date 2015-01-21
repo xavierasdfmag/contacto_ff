@@ -22,14 +22,14 @@
 		} ?></title>
 		
 		<meta property="og:url" content="http://futbolfemenino.pe/contacto/" /> 
-		<meta property="og:title" content="Chocolate Pecan Pie" />
-		<meta property="og:description" content="This pie is delicious!" /> 
-		<meta property="og:image" content="https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-prn1/851565_496755187057665_544240989_n.jpg" /> 
+		<meta property="og:title" content="FÚTBOLL FEMENINO" />
+		<meta property="og:description" content="Únete a la hinchada!" /> 
+		<meta property="og:image" content="http://104.236.14.59/contacto/wp-content/uploads/2015/01/img_compartir-2.png" /> 
 
 		<meta name="twitter:card" content="photo" />
 		<meta name="twitter:site" content="http://futbolfemenino.pe/" />
-		<meta name="twitter:title" content="Mountain sunset" />
-		<meta name="twitter:image" content="https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-prn1/851565_496755187057665_544240989_n.jpg" />
+		<meta name="twitter:title" content="FÚTBOLL FEMENINO" />
+		<meta name="twitter:image" content="http://104.236.14.59/contacto/wp-content/uploads/2015/01/img_compartir-2.png" />
 		<meta name="twitter:url" content="http://futbolfemenino.pe/contacto/" />		
 
 		<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri() ; ?>/css/foundation.css" />

@@ -123,6 +123,10 @@ iframe{
 	border: 18px solid #330099;
 	border-top: 48px solid #330099;	
 	padding-left: 10px !important;
+	padding-right: 10px !important;
+	.row.text{
+		min-height: 100px;
+	}
 	h4{
 		margin-top: -70px;
 		margin-bottom: 20px;
@@ -135,6 +139,7 @@ iframe{
 
 .reveal-modal .close-reveal-modal{
 	top: -50px !important;
+	right: 0px !important;
 }
 
 @media only screen and (max-width: 64em) { 

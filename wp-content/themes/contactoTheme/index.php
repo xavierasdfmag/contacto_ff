@@ -52,30 +52,30 @@
     </div>
   </div>
 
-<div id="modalDifundir" class="reveal-modal" data-reveal>
-  <h4>Ayúdanos a difundir</h4>
-  <div class="row">
-    <div class="small-9 columns">
-      <p>Al compartir nos ayudas a hacer más grande el fútbol femenino. Gracias.</p>
+  <div id="modalDifundir" class="reveal-modal" data-reveal>
+    <h4>Ayúdanos a difundir</h4>
+    <div class="row text">
+      <div class="small-9 columns">
+        <p>Al compartir nos ayudas a hacer más grande el fútbol femenino. Gracias.</p>
+      </div>
+      <div class="small-3 columns">
+        <img src="<?php echo get_stylesheet_directory_uri() ; ?>/img/logo_escudo.png">
+      </div>
     </div>
-    <div class="small-3 columns">
-      <img src="<?php echo get_stylesheet_directory_uri() ; ?>/img/logo_escudo.png">
-    </div>
+    
+    <div class="row share">
+      <div class="small-6 columns no-padding-right text-center">
+        <div class="facebook-share-button"><span class="icon-facebook modal"></span></div>
+      </div>
+      <div class="small-6 columns no-padding-left text-center">
+      <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text">
+        <div class="twitter-share-button">
+          <span class="icon-twitter modal"></span>
+        </div>       
+      </a> 
+      </div>
+    </div>  
+    <a class="close-reveal-modal">&#215;</a>
   </div>
-  
-      <div class="row share">
-        <div class="small-6 columns no-padding-right text-center">
-          <div class="facebook-share-button"><span class="icon-facebook modal"></span></div>
-        </div>
-        <div class="small-6 columns no-padding-left text-center">
-        <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text">
-          <div class="twitter-share-button">
-            <span class="icon-twitter modal"></span>
-          </div>       
-        </a> 
-        </div>
-      </div>  
-  <a class="close-reveal-modal">&#215;</a>
-</div>
 
 <?php get_footer(); ?>
