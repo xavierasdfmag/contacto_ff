@@ -54,9 +54,9 @@
        }(document, 'script', 'facebook-jssdk'));
     </script>
 
-<script type="text/javascript">
+<script>
   $(document).ready(function(){
-    $('#share_button').live('click', function(e){
+    $('#share_button').on('click', function(e){
       e.preventDefault();
       FB.ui(
        {
