@@ -1,6 +1,22 @@
 <?php get_header(); ?>
 
-
+<script>
+  $(document).ready(function(){
+    $('#share_button').on('click', function(e){
+      e.preventDefault();
+      FB.ui(
+       {
+        method: 'feed',
+        name: 'HyperArts Blog',
+        link: 'http://hyperarts.com/blog',
+        picture: 'http://www.hyperarts.com/_img/TabPress-LOGO-Home.png',
+        caption: 'I love HyperArts tutorials',
+        description: 'The HyperArts Blog provides tutorials for all things Facebook',
+        message: ''
+      }, function(response){});
+    });
+  });
+</script> 
 
   <div class="row">
     <div class="small-12 columns frase">
