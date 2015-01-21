@@ -114,9 +114,19 @@ iframe{
 #modalDifundir{
 	border: 18px solid #330099;
 	border-top: 48px solid #330099;	
+	padding-left: 10px !important;
 	h4{
 		margin-top: -60px;
+		margin-bottom: 20px;
+		color: #fff;
 	}
+	p{
+		color: #7e7e7e;
+	}
+}
+
+.reveal-modal .close-reveal-modal{
+	top: -50px !important;
 }
 
 @media only screen and (max-width: 64em) { 
@@ -138,6 +148,10 @@ iframe{
 			top: 5px !important;
 		}	
 	}
+
+	.reveal-modal{
+		min-height: 0px !important;
+	}	
 } 
 
 

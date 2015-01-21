@@ -27,11 +27,11 @@
 
       <div class="row share">
         <div class="small-6 columns no-padding-right text-center">
-          <div id="facebook-share-button"><span class="icon-facebook"></span>Compártelo en tu facebook</div>
+          <div class="facebook-share-button"><span class="icon-facebook"></span>Compártelo en tu facebook</div>
         </div>
         <div class="small-6 columns no-padding-left text-center">
         <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text">
-          <div id="twitter-share-button">
+          <div class="twitter-share-button">
             <span class="icon-twitter"></span>
             Compártelo por twitter
           </div>       
@@ -54,17 +54,15 @@
 
 <div id="modalDifundir" class="reveal-modal" data-reveal>
   <h4>Ayúdanos a difundir</h4>
-  <p class="lead">Te registraste correctamente.</p>
-  <p>Te registraste correctamente.</p>
+  <p>Al compartir nos ayudas a hacer más grande el fútbol femenino. Gracias.</p>
       <div class="row share">
         <div class="small-6 columns no-padding-right text-center">
-          <div class="facebook-share-button"><span class="icon-facebook"></span>Compártelo en tu facebook</div>
+          <div class="facebook-share-button"><span class="icon-facebook"></span></div>
         </div>
         <div class="small-6 columns no-padding-left text-center">
         <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text">
           <div class="twitter-share-button">
             <span class="icon-twitter"></span>
-            Compártelo por twitter
           </div>       
         </a> 
         </div>
