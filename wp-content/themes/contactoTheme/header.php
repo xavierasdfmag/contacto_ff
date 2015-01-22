@@ -21,16 +21,16 @@
 			echo wp_title( ' | ', 'false', 'right' ); bloginfo( 'name' );
 		} ?></title>
 		
-		<meta property="og:url" content="http://futbolfemenino.pe/contacto/" /> 
+		<meta property="og:url" content="http://futbolfemenino.pe/unete/" /> 
 		<meta property="og:title" content="ÚNETE A LA HINCHADA" />
 		<meta property="og:description" content="Pre suscríbete a la primera revista de fútbol femenino de Perú y recibe la primera edición gratis." /> 
-		<meta property="og:image" content="http://104.236.14.59/contacto/wp-content/uploads/2015/01/img_compartir-2.png" /> 
+		<meta property="og:image" content="http://104.236.14.59/unete/wp-content/uploads/2015/01/img_compartir-2.png" /> 
 
 		<meta name="twitter:card" content="photo" />
 		<meta name="twitter:site" content="http://futbolfemenino.pe/" />
 		<meta name="twitter:title" content="FÚTBOLL FEMENINO" />
-		<meta name="twitter:image" content="http://104.236.14.59/contacto/wp-content/uploads/2015/01/img_compartir-2.png" />
-		<meta name="twitter:url" content="http://futbolfemenino.pe/contacto/" />		
+		<meta name="twitter:image" content="http://104.236.14.59/unete/wp-content/uploads/2015/01/img_compartir-2.png" />
+		<meta name="twitter:url" content="http://futbolfemenino.pe/unete/" />		
 
 		<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri() ; ?>/css/foundation.css" />
 
@@ -94,7 +94,7 @@
 	<header>
 		<div class="row">
 			<div class="medium-6 columns">
-				<a href="http://futbolfemenino.pe/contacto/">
+				<a href="http://futbolfemenino.pe/unete/">
 					<img src="<?php echo get_stylesheet_directory_uri() ; ?>/img/logo.png">
 				</a>
 			</div>

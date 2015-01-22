@@ -7,7 +7,7 @@
       FB.ui(
        {
         method: 'share',
-        href: 'http://futbolfemenino.pe/contacto/',
+        href: 'http://futbolfemenino.pe/unete/',
         display: 'popup'
       }, function(response){});
     });
@@ -18,7 +18,7 @@
     <div class="small-12 columns frase">
       <span>"No queremos ser enciclopedias que se conocen hasta el segundo apellido de cada jugador de liga turca. Queremos jugar fútbol. Hablar de él. Compartir la alegría de un golazo"</span>
       <br>
-      <a href="http://futbolfemenino.pe/contacto/?page_id=5">Ver manifiesto</a>
+      <a href="http://futbolfemenino.pe/unete/?page_id=5">Ver manifiesto</a>
     </div>
   </div>
   <div class="row">
