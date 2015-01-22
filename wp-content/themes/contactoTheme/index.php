@@ -38,7 +38,9 @@
           </div>       
         </a> 
         </div>
-        <span>Al compartir nos ayudas a difundir el fútbol femenino. Gracias</span>
+        <div class="small-12 columns">
+          <span>Al compartir nos ayudas a difundir el fútbol femenino. Gracias</span>
+        </div>
       </div>
 
 
