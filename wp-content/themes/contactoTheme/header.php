@@ -53,7 +53,7 @@
 
 		<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:300' rel='stylesheet' type='text/css'>		
 		<link href='http://fonts.googleapis.com/css?family=Sansita+One|Amatic+SC:400,700' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="http://i.icomoon.io/public/temp/f4ad43806b/UntitledProject/style.css">
+		<!-- <link rel="stylesheet" href="http://i.icomoon.io/public/temp/f4ad43806b/UntitledProject/style.css"> -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
 		
 		<?php wp_head(); ?>
