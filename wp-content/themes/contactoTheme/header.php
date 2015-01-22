@@ -22,8 +22,8 @@
 		} ?></title>
 		
 		<meta property="og:url" content="http://futbolfemenino.pe/contacto/" /> 
-		<meta property="og:title" content="FÚTBOLL FEMENINO" />
-		<meta property="og:description" content="Únete a la hinchada!" /> 
+		<meta property="og:title" content="ÚNETE A LA HINCHADA" />
+		<meta property="og:description" content="Pre suscríbete a la primera revista de fútbol femenino de Perú y recibe la primera edición gratis." /> 
 		<meta property="og:image" content="http://104.236.14.59/contacto/wp-content/uploads/2015/01/img_compartir-2.png" /> 
 
 		<meta name="twitter:card" content="photo" />
