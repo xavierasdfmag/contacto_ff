@@ -31,7 +31,7 @@
         </div>
         <div class="small-6 columns no-padding-left text-center">
         <!-- <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text"> -->
-        <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fgoo.gl%2Fedbr13&text=Pre%20suscríbete%20a%20la%20primera%20revista%20de%20fútbol%20femenino%20de%20Perú%20y%20recibe%20la%20primera%20edición%20gratis">
+        <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fgoo.gl%2FWPkvYZ&text=Pre%20suscríbete%20a%20la%20primera%20revista%20de%20fútbol%20femenino%20de%20Perú%20y%20recibe%20la%20primera%20edición%20gratis">
           <div class="twitter-share-button">
             <span class="icon-twitter"></span>
             Compártelo por twitter
@@ -72,7 +72,7 @@
       </div>
       <div class="small-6 columns no-padding-left text-center">
       <!-- <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text"> -->
-        <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fgoo.gl%2Fedbr13&text=Pre%20suscríbete%20a%20la%20primera%20revista%20de%20fútbol%20femenino%20de%20Perú%20y%20recibe%20la%20primera%20edición%20gratis">
+        <a target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Fgoo.gl%2FWPkvYZ&text=Pre%20suscríbete%20a%20la%20primera%20revista%20de%20fútbol%20femenino%20de%20Perú%20y%20recibe%20la%20primera%20edición%20gratis">
         <div class="twitter-share-button">
           <span class="icon-twitter modal"></span>
         </div>       
