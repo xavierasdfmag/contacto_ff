@@ -94,7 +94,9 @@
 	<header>
 		<div class="row">
 			<div class="medium-6 columns">
-				<img src="<?php echo get_stylesheet_directory_uri() ; ?>/img/logo.png">
+				<a href="http://futbolfemenino.pe/contacto/">
+					<img src="<?php echo get_stylesheet_directory_uri() ; ?>/img/logo.png">
+				</a>
 			</div>
 			<div class="medium-6 columns facebook-compartir-header">
 				<div
