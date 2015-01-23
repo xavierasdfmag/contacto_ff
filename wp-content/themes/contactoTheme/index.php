@@ -16,7 +16,7 @@
 
   <div class="row">
     <div class="small-12 columns frase">
-      <span>"No queremos ser enciclopedias que se conocen hasta el segundo apellido de cada jugador de liga turca. Queremos jugar fútbol. Hablar de él. Compartir la alegría de un golazo"</span>
+      <span>"No queremos ser enciclopedias que se conocen hasta el segundo apellido de cada jugador de la liga turca. Queremos jugar fútbol. Hablar de él. Compartir la alegría de un golazo"</span>
       <br>
       <a href="http://futbolfemenino.pe/unete/?page_id=5">Ver manifiesto</a>
     </div>
