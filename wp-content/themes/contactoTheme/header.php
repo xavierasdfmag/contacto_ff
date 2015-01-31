@@ -50,6 +50,7 @@
 		<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6020573656236&amp;cd[value]=0.01&amp;cd[currency]=PEN&amp;noscript=1" /></noscript>		
 		<!-- Fin Facebook Conversion Code for Suscribete -->
 		
+		<meta name="google-site-verification" content="Yl7pSQTaubSiv0nj4cppnJNaSq1A73Zv1woqNHhvT1Y" />		
 		<meta property="og:url" content="http://futbolfemenino.pe/unete/" /> 
 		<meta property="og:title" content="ÚNETE A LA HINCHADA" />
 		<meta property="og:description" content="Pre suscríbete a la primera revista de fútbol femenino de Perú y recibe la primera edición gratis." /> 
