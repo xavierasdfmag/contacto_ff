@@ -45,9 +45,9 @@
 		  }
 		})();
 		window._fbq = window._fbq || [];
-		window._fbq.push(['track', '6020573656236', {'value':'0.01','currency':'PEN'}]);
+		window._fbq.push(['track', '6020574024836', {'value':'0.01','currency':'PEN'}]);
 		</script>
-		<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6020573656236&amp;cd[value]=0.01&amp;cd[currency]=PEN&amp;noscript=1" /></noscript>		
+		<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6020574024836&amp;cd[value]=0.01&amp;cd[currency]=PEN&amp;noscript=1" /></noscript>
 		<!-- Fin Facebook Conversion Code for Suscribete -->
 		
 		<meta name="google-site-verification" content="Yl7pSQTaubSiv0nj4cppnJNaSq1A73Zv1woqNHhvT1Y" />		
