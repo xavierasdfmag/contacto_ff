@@ -56,6 +56,13 @@
 		<meta property="og:description" content="Pre suscríbete a la primera revista de fútbol femenino de Perú y recibe la primera edición gratis." /> 
 		<meta property="og:image" content="http://104.236.14.59/unete/wp-content/uploads/2015/01/futbolfemenino_fb-11.jpg" /> 
 
+
+		<meta name="organization" content="Fútbol femenino">
+		<meta name="googlebot" content="index, follow">
+		<meta name="robots" content="index,follow">
+		<meta name="news_keywords" content="Fútbol femenino, fútbol mujeres, mundial mujeres, soccer mujeres, canadá 2014, copa mundial mujeres, la movemos mejor, fútbol mujeres perú, perú fútbol, mujeres perú">
+		<meta name="language" content="es">		
+
 		<meta name="twitter:card" content="photo" />
 		<meta name="twitter:site" content="http://futbolfemenino.pe/" />
 		<meta name="twitter:title" content="FÚTBOLL FEMENINO" />
